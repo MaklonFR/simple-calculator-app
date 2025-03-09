@@ -1,0 +1,45 @@
+/*bagian body*/
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: beige;
+}
+
+/*bagian container*/
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+/*bagian input, select, button*/
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 90%;
+}
+
+/*bagian warna button*/
+.biru {
+    background-color: blue;
+    color: white;
+    border: solid 1px #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.orange {
+    background-color: orangered;
+    color: white;
+    border: solid 1px #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+}
