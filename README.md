@@ -1,4 +1,5 @@
 # Aplikasi Kalkulator Sederhana
+![image](https://github.com/user-attachments/assets/7d51a959-ed71-4ed6-bb82-6ff9e29ee788)
 
 ## 📌 Deskripsi
 Aplikasi Kalkulator Sederhana adalah aplikasi berbasis web yang memungkinkan pengguna untuk melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
