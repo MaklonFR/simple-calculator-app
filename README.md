@@ -41,3 +41,6 @@ Proyek ini dibuat untuk tujuan edukasi dan dapat digunakan secara bebas.
 ---
 ✨ Dibuat dengan ❤️ untuk mempermudah perhitungan dasar! 🚀
 
+## Link Youtube Tutorial:
+https://www.youtube.com/watch?v=yiv7dlHZa5Q
+
